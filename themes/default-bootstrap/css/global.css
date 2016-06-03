@@ -8569,3 +8569,14 @@ div.star.star_hover:after {
   cursor: pointer; }
 
 /*# sourceMappingURL=global.css.map */
+
+/* Added content */
+
+#lookbook figure {
+  text-align: center;
+  display: inline-block;
+  width: 300px;
+}
+#lookbook figcaption {
+  padding: 5px 15px;
+}
